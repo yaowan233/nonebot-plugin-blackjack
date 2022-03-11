@@ -66,9 +66,7 @@
 | 对战列表        | 查看对战列表     |
 
 ## 使用例
+![1](https://user-images.githubusercontent.com/30517062/157892998-a26db109-c744-479d-b368-36f55167604c.jpg)
+![2](https://user-images.githubusercontent.com/30517062/157893004-cd56225c-79d8-4374-97d8-4e760be84362.jpg)
+![21点使用例](https://user-images.githubusercontent.com/30517062/157893007-37477e4a-8312-4838-9474-303a27f0228e.jpg)
 
-![](pic\21点使用例.jpg)
-
-![](pic\1.jpg)
-
-![2](pic\2.jpg)
