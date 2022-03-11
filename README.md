@@ -6,12 +6,12 @@
 # nonebot-plugin-blackjack
 👾 _NoneBot 21点插件_ 👾
 ## 安装
-`pip install nonebot-plugin-code`
+`pip install nonebot-plugin-blackjack`
 
 
 ## 导入
 在**bot.py** 导入，语句：
-`nonebot.load_plugin("nonebot_plugin_code")`
+`nonebot.load_plugin("nonebot_plugin_blackjack")`
 
 ## 游戏规则
 
