@@ -6,7 +6,7 @@ setuptools.setup(
     version="0.0.4",
     keywords=("pip", "nonebot2", "nonebot", "nonebot_plugin"),
     description="""nonebot2 21点插件""",
-    url="https://github.com/yaowan233/nonebot_plugin_blackjack",
+    url="https://github.com/yaowan233/nonebot-plugin-blackjack",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
